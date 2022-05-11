@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.PostTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-05-11T05:11:11" hostname="GONBB" time="2.748">
+<testsuite name="ru.netology.PostTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-05-11T08:28:02" hostname="GONBB" time="3.856">
   <properties/>
-  <testcase name="shouldPost()" classname="ru.netology.PostTest" time="2.748">
+  <testcase name="shouldPost()" classname="ru.netology.PostTest" time="3.856">
     <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path data doesn't match.&#10;Expected: some value&#10;  Actual: some data&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 JSON path data doesn't match.
 Expected: some value
